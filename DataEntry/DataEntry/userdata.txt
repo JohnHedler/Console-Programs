@@ -1,0 +1,3 @@
+Jimmy Johnson:43:Nascar Driver:48000:
+Jason Vorhees:31:Killer:0:
+Jacob Schneider:31:Couch Potato:100:
