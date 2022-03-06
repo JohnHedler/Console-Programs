@@ -2,7 +2,8 @@
 Collection of finished projects
 
 This collection contains work that I have done.
-I have sorted my work into folders for easier convenience.\n
+
+I have sorted my work into folders for easier convenience.
 C#: C-Sharp projects
 C++: C++ projects
 Coursework: Projects done during college.
