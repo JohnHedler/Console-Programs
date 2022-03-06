@@ -5,4 +5,4 @@ The program will take a word from the 'dictionary.txt' file and the user will ha
 
 ---
 
-*Note: To ensure the program will run, make sure the 'dictionary.txt' file is included into the .exe folder location*
+*Note: To ensure the program will run, make sure the 'dictionary.txt' file is included into the .exe folder location.*
