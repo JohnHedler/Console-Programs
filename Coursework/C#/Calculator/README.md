@@ -1,4 +1,4 @@
-#Calculator Program
+# Calculator Program
 A simple calculator program.
 
 The user enters two numbers, then chooses to add, subtract, multiply, or divide.
