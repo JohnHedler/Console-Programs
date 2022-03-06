@@ -1,0 +1,3 @@
+Emily Hacker:25:Receptionist:600:
+William Tree:32:Librarian:150:
+Terry Smith:55:Computer Analyst:1300:
