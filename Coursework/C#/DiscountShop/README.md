@@ -1,5 +1,4 @@
 # Crazy Jay's Fireworks Shop
-==========================
 
 This program will ask the user to enter his/her name and the price of the fireworks purchase.
 
