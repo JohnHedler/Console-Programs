@@ -85,7 +85,7 @@ tree
 bridge
 tower
 castle
-bridge
+barracks
 moat
 shallow
 deep
