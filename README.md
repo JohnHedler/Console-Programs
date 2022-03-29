@@ -1,5 +1,5 @@
 # Portfolio
-Collection of finished projects
+Collection of finished console applications
 
 This collection contains work that I have done.
 
